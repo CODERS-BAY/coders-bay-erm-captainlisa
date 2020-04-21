@@ -18,3 +18,7 @@ coders-bay-erm-captainlisa
 * Subject Allocation (**sub_allo_ID:int**, subject_ID:int, personal_ID:int)
 * Course Allocation (**course_allo_ID:int**, course_ID:int, subject_ID:int)
 * Timetable (**timetable_ID:int**, group_ID:int, subject_ID:int, personal_ID:int, week_day:varchar(32))
+
+## CODERS.BAY schema
+
+![codersbay](codersbay_schema.jpg)
